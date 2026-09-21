@@ -1,0 +1,6 @@
+{
+  "name": "SmartEducation",
+  "description": "AI-powered learning platform with personalized courses, AI Tutor, coding practice, assessments, and study planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
